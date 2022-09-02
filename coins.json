@@ -8619,9 +8619,9 @@
           "funds": []
       },
          {
-          "code": "MEGG",
+          "code": "MDEFI",
           "name": "Metaegg DeFi",
-          "categories": ["exchange_tokens"],
+          "categories": ["dexes" ],
           "active": true,
           "description": "",
           "links": { "website": "", "whitepaper": "", "twitter": "", "reddit": "", "telegram": "" },
