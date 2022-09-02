@@ -8618,6 +8618,16 @@
           "id": "erc20|0x75231f58b43240c9718dd58b4967c5114342a86c",
           "funds": []
       },
+         {
+          "code": "MEGG",
+          "name": "Metaegg DeFi",
+          "categories": ["exchange_tokens"],
+          "active": true,
+          "description": "",
+          "links": { "website": "", "whitepaper": "", "twitter": "", "reddit": "", "telegram": "" },
+          "id": "bep20|0x0475AE77fb55005F15554642d6016c75FD04227A",
+          "funds": []
+      },
       {
           "code": "QTUM",
           "name": "Qtum",
