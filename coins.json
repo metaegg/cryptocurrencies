@@ -8624,7 +8624,7 @@
           "categories": ["dexes" ],
           "active": true,
           "description": "",
-          "links": { "website": "", "whitepaper": "", "twitter": "", "reddit": "", "telegram": "" },
+          "links": { "website": "https://metaegg.io", "whitepaper": "https://docs.metaegg.io", "twitter": "https://twitter.com/metaegg_io", "reddit": "", "telegram": "https://metaegg_io" },
           "id": "bep20|0x0475AE77fb55005F15554642d6016c75FD04227A",
           "funds": []
       },
